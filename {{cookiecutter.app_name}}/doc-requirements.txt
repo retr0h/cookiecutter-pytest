@@ -1,0 +1,3 @@
+alabaster
+{{cookiecutter.app_name}}
+Sphinx
