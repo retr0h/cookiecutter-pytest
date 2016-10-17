@@ -14,8 +14,16 @@ Usage
 
 ::
 
-    $ pip install cookiecutter
-    $ cookiecutter https://github.com/retr0h/cookiecutter-pytest.git
+  $ pip install cookiecutter
+  $ cookiecutter https://github.com/retr0h/cookiecutter-pytest.git
+
+::
+
+  $ cd $project
+  $ git init
+  $ pip install -e .
+  $ tox
+  $ $project --help
 
 License
 -------
