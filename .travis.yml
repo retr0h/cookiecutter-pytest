@@ -11,3 +11,5 @@ script:
   - cd /tmp/myapp
   - git init
   - tox
+  - pip install -e .
+  - myapp --help
