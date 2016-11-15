@@ -4,5 +4,6 @@
   "github_username": "retr0h",
   "project_name": "TODO",
   "app_name": "myapp",
-  "project_short_description": "TODO"
+  "project_short_description": "TODO",
+  "project_test_dir": "test/"
 }
