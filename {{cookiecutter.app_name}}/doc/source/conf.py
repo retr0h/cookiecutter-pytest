@@ -58,7 +58,7 @@ master_doc = 'index'
 
 # General information about the project.
 project = u'{{cookiecutter.app_name}}'
-copyright = u' %s, Cisco Systems, Inc.' % datetime.date.today().year
+copyright = u' %s, {{cookiecutter.full_name}}' % datetime.date.today().year
 author = u'AUTHORS.md'
 
 # The version info for the project you're documenting, acts as replacement for
